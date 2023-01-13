@@ -1,6 +1,6 @@
 public class Date {
-  String dateDay;
-  String holyday;
+  private String dateDay;
+  private String holyday;
 
   public Date(String dateDay, String holiday){
     this.dateDay = dateDay;
